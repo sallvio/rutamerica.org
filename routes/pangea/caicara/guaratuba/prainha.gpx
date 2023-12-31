@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.6.9" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Guaratuba: Prainha</name>
+  </metadata>
+  <wpt lat="-25.852177" lon="-48.556811">
+    <ele>3</ele>
+    <time>2023-12-31T03:37:31Z</time>
+    <name>Avenida Atlântica, Prainha</name>
+    <type>Guaratuba: Prainha</type>
+    <extensions>
+      <osmand:address>Avenida Atlântica, Prainha</osmand:address>
+      <osmand:icon>beach</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.854932" lon="-48.5699934">
+    <time>2023-12-31T04:08:27Z</time>
+    <name>Balsa Caiobá</name>
+    <type>Guaratuba: Prainha</type>
+    <extensions>
+      <osmand:amenity_subtype>ferry_terminal</osmand:amenity_subtype>
+      <osmand:amenity_name>Balsa Caiobá</osmand:amenity_name>
+      <osmand:amenity_type>transportation</osmand:amenity_type>
+      <osmand:address>Balsa Caiobá-Guaratuba</osmand:address>
+      <osmand:icon>amenity_ferry_terminal</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#10c0f0</osmand:color>
+      <osmand:amenity_origin>Amenity:Balsa Caioba: transportation:ferry_terminal</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8491913" lon="-48.5455784">
+    <ele>7.2</ele>
+    <time>2023-12-31T04:05:33Z</time>
+    <name>Praça Doutor Antônio José Lobo</name>
+    <type>Guaratuba: Prainha</type>
+    <extensions>
+      <osmand:address>Avenida Agílio Leão de Macedo, Praia Mansa</osmand:address>
+      <osmand:icon>park</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#00842b</osmand:color>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8550817" lon="-48.5615927">
+    <time>2023-12-31T04:08:12Z</time>
+    <name>Prainha</name>
+    <type>Guaratuba: Prainha</type>
+    <extensions>
+      <osmand:amenity_subtype>beach</osmand:amenity_subtype>
+      <osmand:amenity_name>Prainha</osmand:amenity_name>
+      <osmand:amenity_type>natural</osmand:amenity_type>
+      <osmand:collapsable_beach_surface_type>beach_sand</osmand:collapsable_beach_surface_type>
+      <osmand:address>Avenida Atlântica, Prainha</osmand:address>
+      <osmand:icon>beach</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#eecc22</osmand:color>
+      <osmand:amenity_origin>Amenity:Prainha: natural:beach</osmand:amenity_origin>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8514503" lon="-48.549529">
+    <time>2023-12-31T03:37:00Z</time>
+    <name>Rodovia Fernando Lisboa, Ponta da Itapixirica</name>
+    <type>Guaratuba: Prainha</type>
+    <extensions>
+      <osmand:address>Rodovia Fernando Lisboa, Ponta da Itapixirica</osmand:address>
+      <osmand:icon>special_marker</osmand:icon>
+      <osmand:background>circle</osmand:background>
+      <osmand:color>#000001</osmand:color>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Guaratuba: Prainha" color="#00842b" icon="special_star" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
