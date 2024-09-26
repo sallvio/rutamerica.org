@@ -1204,5 +1204,10 @@
     <osmand:points_groups>
       <group name="" />
     </osmand:points_groups>
-  </extensions>
+<osmand:show_arrows>true</osmand:show_arrows>
+<osmand:color>#191970</osmand:color>
+<osmand:width>10</osmand:width>
+<osmand:split_type>distance</osmand:split_type>
+<osmand:split_interval>2000</osmand:split_interval>
+</extensions>
 </gpx>
