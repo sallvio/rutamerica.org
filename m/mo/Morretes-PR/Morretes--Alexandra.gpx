@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-<name>Senda Morretes → Alexandra</name>
+<name>Morretes → Alexandra</name>
 <desc>This route is classified as 🧩connection with ⬆️point-to-point geometry, stretching for 27.6 km, and totaling 209.3 m of climbs. It passes through 🏫urban centers, 🏘️peripheries, 🛣️highways, 🌳forests, 🏡towns, and has a predominant ➖almost flat slope. Attractions: city, towns, mountains, historical heritage, squares, chapels, train stations, cemeteries. It can be covered 🚗 by car, 🛵 by motorcycle, 🚴🏼 by bicycle.
 Tourist attractiveness:
 ★ (1.4/5)
@@ -99,7 +99,7 @@ Challenge level:
     </rtept>
   </rte>
   <trk>
-    <name>Tue 24 Sep 2024</name>
+    <name>Morretes → Alexandra</name>
     <trkseg>
       <trkpt lat="-25.4796166" lon="-48.8329127">
         <ele>11</ele>
