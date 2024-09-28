@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
 <gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
   <metadata>
-    <name>Praia de Leste → Matinhos</name>
+    <name>Matinhos → Praia de Leste</name>
     <desc>
-This route is classified as a &#127754;coastal route with ⬆️point-to-point geometry, stretching for 19.2 km, and totaling 46.1 m of climbs. It passes through &#127979;urban centers, &#127960;️residential neighborhoods, &#127958;️seafront, ☘️sandbanks, &#127958;️spa resorts, and has a predominantly &#129008;flat slope. Attractions: city, jetty, viewpoints, seafront, beaches, forests, squares, sandbanks, churches, natural park, rivers, trails. It can be covered &#128692;&#127996;by bicycle, &#128694;&#127997;‍♀️on foot, &#128757; by motorcycle, &#128663; by car.  Tourist attractiveness:
+This route is classified as a 🌊coastal route with ⬆️point-to-point geometry, stretching for 19.5 km, and totaling 49.2 m of climbs. It passes through 🏫urban centers, 🏘️residential neighborhoods, 🏖️seafront, ☘️sandbanks, 🏖️spa resorts, and has a predominantly 🟰flat slope. Attractions: city, jetty, viewpoints, seafront, beaches, forests, squares, sandbanks, churches, natural park, rivers, trails. It can be covered 🚴🏼by bicycle, 🚶🏽‍♀️on foot, 🛵 by motorcycle, 🚗 by car.  Tourist attractiveness:
 ★★★ (3/5)
 Challenge level:
 ∆ (1/5).
@@ -11,13 +11,13 @@ Challenge level:
     <author>
       <name>Sálvio Marcelo Soares</name>
       <email id="sallvio" domain="gmail.com" />
-      <link href="https://rutamerica.notion.site/Praia-de-Leste-Matinhos-5e5dc1cbbd3440878a70cb61cb3f510f?pvs=4" />
+      <link href="https://rutamerica.notion.site/Matinhos-Praia-de-Leste-10fe23b003cb80f5bff9f5eec1ecbf82?pvs=4" />
     </author>
     <copyright author="Sálvio Marcelo Soares">
       <year>2024</year>
       <license>CC BY NC-ND: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode </license>
     </copyright>
-    <link href="https://sallvio.github.io/rutamerica.org/p/po/PontalDoParana-PR/PraiaDeLeste--Matinhos.gpx" />
+    <link href="https://sallvio.github.io/rutamerica.org/m/ma/Matinhos-PR/Matinhos--PraiaDeLeste.gpx" />
     <time>2024-09-28T11:30:40Z</time>
   </metadata>
   <rte>
@@ -299,7 +299,7 @@ Challenge level:
     </rtept>
   </rte>
   <trk>
-    <name>PraiaDeLeste--Matinhos</name>
+    <name>Matinhos → Praia de Leste</name>
     <trkseg>
       <trkpt lat="-25.8187105" lon="-48.5342238">
         <ele>8</ele>
@@ -1673,4 +1673,11 @@ Challenge level:
       </extensions>
     </trkseg>
   </trk>
+<extensions>
+<osmand:show_arrows>true</osmand:show_arrows>
+<osmand:color>#191970</osmand:color>
+<osmand:width>10</osmand:width>
+<osmand:split_type>distance</osmand:split_type>
+<osmand:split_interval>2000</osmand:split_interval>
+</extensions>
 </gpx>
