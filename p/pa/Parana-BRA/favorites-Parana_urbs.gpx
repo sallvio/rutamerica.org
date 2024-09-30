@@ -1,1 +1,437 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.8.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Paraná urbs</name>
+  </metadata>
+  <wpt lat="-25.8806161" lon="-48.5750949">
+    <time>2024-06-30T20:24:00Z</time>
+    <name>GUARATUBA</name>
+    <desc>O povoamento da enseada de Guaratuba teve início em 1765 por ordem do Capitão Geral da Capitania de São Paulo, que recebeu a incumbência do Rei Dom José I de fundar vilas e povoados em pontos mais convenientes aos sítios volantes ou dispersos da capitania.
 
+Para a formação da nova povoação foram transferidos 200 casais com a missão de cultivar as terras da região. Após a tentativa de ocupação da ilha de Santa Catarina por forças espanholas em 1768, o Governador da Capitania toma medidas preventivas para defender a região, surgindo assim a necessidade da criação de uma vila. Três anos mais tarde, no dia 29 de abril de 1771, é fundada a Vila de São Luís de Guaratuba e no dia seguinte é eleita a primeira Câmara Municipal. Os vereadores dirigiam os destinos do povo guaratubense assistido pelo presidente da província.
+
+Em 1838 o município de Guaratuba é extinto, passando a constituir um distrito municipal de Paranaguá. A autonomia municipal é restaurada em 1947, mas sete anos depois a cidade passa a ser parte do distrito Judiciário de São José dos Pinhais. Somente em julho de 1986 Guaratuba consegue sua emancipação municipal.</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Guaratuba</osmand:address>
+      <osmand:amenity_origin>Amenity:Guaratuba: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Guaratuba</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1779983</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Guaratuba</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>42062</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-26.1162412" lon="-48.618021">
+    <ele>7</ele>
+    <time>2024-07-01T16:02:11Z</time>
+    <name>Itapoá</name>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Itapoá</osmand:address>
+      <osmand:amenity_origin>Amenity:Itapoa: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Itapoá</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>30750</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8187062" lon="-48.5342073">
+    <time>2024-06-30T06:33:55Z</time>
+    <name>MATINHOS</name>
+    <desc>Telefones úteis em Matinhos
+
+Confira alguns número de telefone que podem lhe ser úteis em Matinhos:
+
+ACIMA: (41) 3453-2345
+ASPP: (41) 3452-1381
+BANCO DO BRASIL: (41)
+BIBLIOTECA MUNICIPAL: (41) 3453-7654
+CÂMARA MUNICIPAL DE MATINHOS: (41) 3453-3131
+CAIXA ECONÔMICA FEDERAL: (41) 3453-8460
+CARTÓRIO: (41) 3453-2424
+CONSELHO TUTELAR: (41) 3453-6645
+CORREIOS: (41) 3453-1331
+CORPO DE BOMBEIROS: (41) 3453-2323 ou 193
+CRECI: (41) 3453-1654
+DELEGACIA DE POLICIA CIVIL: (41) 3473-3437
+DETRAN: (41) 3971-6053
+FÓRUM: (41) 3453-4153
+GUARDA MUNICIPAL: (41) 3473-3846 ou 3452-2766
+HOSPITAL: (41) 3971-6100
+JUIZADOS ESPECIAIS: (41) 3473-9185
+OPERAÇÃO VERÃO: (41) 3453-1457
+POLICIA CIVIL: (41) 3452-1742
+POLICIA MILITAR: (41) 3452-1145 ou 190
+POLICIA RODOVIÁRIA ESTADUAL: (41) 3458-2377
+PREFEITURA MUNICIPAL DE MATINHOS (41)-3971-6000
+REGISTRO DE IMÓVEIS: (41) 3453-1001
+RODOVIÁRIA: (41) 3453-6091
+SESC: (41) 3452-8800
+UFPR: (41) 3511-8300
+UNEPAR: (41) 3452-6977</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Matinhos</osmand:address>
+      <osmand:amenity_origin>Amenity:Matinhos: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Matinhos</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:osm_tag_wikidata>Q206105</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://de.wikipedia.org/wiki/Matinhos</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>39259</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4770089" lon="-48.8321931">
+    <time>2024-06-30T07:21:59Z</time>
+    <name>MORRETES</name>
+    <desc>Morretes está inserida no contexto histórico do descobrimento das primeiras jazidas de ouro em território brasileiro, encontradas nos rios que deságuam na baía de Paranaguá. Desde a segunda metade do século XVI a região foi frequentada por preadores, faiscadores e comerciantes vindos de São Vicente, atraídos pela notícia da descoberta de ouro. Assim, esse fluxo de pessoas para a região, em 1721, determinou que a Câmara Municipal de Paranaguá medisse e demarcasse 300 braças em quadra, para servir de localização à sede da futura povoação, a qual ocorreu somente em 1733.
+
+O processo de fixação e crescimento da população é marcado com a construção da primeira igreja, por volta de 1769, dedicada a Nossa Senhora do Porto e Menino Deus dos Três Morretes. Estrategicamente localizada no sopé da Serra do Mar, é o ponto de partida e chegada do Caminho Colonial do Arraial e o Caminho Colonial do Itupava; importantes vias de comunicação entre o planalto curitibano e o litoral paranaense. Esses caminhos, originalmente, eram picadas abertas por indígenas, as quais foram utilizadas pelos faiscadores de ouro e, depois, como via de transporte de pessoas e mercadorias. A utilização dessas vias de comunicação terrestre contribuiu para o desenvolvimento social, econômico, político e no processo de transformação urbana ocorrida ao longo dos anos. Quanto aos aspectos arquitetônicos e urbanísticos, a morfologia de Morretes segue os caminhos do suporte natural e da história.
+
+A mancha urbana mais antiga se desenvolveu às margens do Rio Nhundiaquara, reproduzindo a clássica implantação luso-brasileira com um traçado orgânico, largo e praceado, que mescla espaços pedestrializados e eixos viários tradicionais, os quais produzem visuais que permitem uma leitura abrangente entre o construído e o natural, composição harmônica que torna o centro histórico único. A relação entre os espaços públicos e privados também é de grande relevância, pois estabelecem, ao longo do rio, avarandados restaurantes e quintais privados. Os lotes muito estreitos e profundos, dos quais somente a porção frontal é edificada, evidenciam o gabarito das construções que, em sua imensa maioria, são edificações térreas, que não sobressaem à linha do horizonte.
+
+ A área de tombamento é delimitada pelo polígono marginado pelo Rio Nhundiaquara, desde a ponte ferroviária do Ramal de Antonina, descendo rio abaixo até encontrar o prolongamento da Rua Coronel Modesto. Segue por esta até encontrar o Largo Antônio R. dos Santos, seguindo para oeste até a Rua Visconde do Rio Branco, até encontrar a Estrada de Ferro Paraná, englobando dentro de sua área de influência as casas da vila ferroviária, até encontrar a Rua Marcos Malucelli, seguindo pela linha férrea até encontrar os trilhos do Ramal Ferroviário de Antonina, pelo qual retorna ao ponto de partida (Perímetro Tombado); e é, também, estabelecido pelo Perímetro de Entorno, delimitado pelo polígono que inicia na confluência da Rua José Moraes com a Rua Coronel Modesto, seguindo pela Rua José Moraes até os trilhos da Ferrovia Paraná, até o prolongamento da Rua Visconde do Rio Branco, pela qual segue até o Largo Antonio R. dos Santos até encontrar a Rua Coronel Modesto, pela qual retorna ao ponto de partida.
+ 
+
+OBSERVAÇÕES
+
+O tombamento do Conjunto Histórico, Urbanístico e Paisagístico de Morretes está inscrito nos livros do Tombo Histórico e Tombo Arqueológico, Etnográfico e Paisagístico, conforme aprovação, por unanimidade, pelo Conselho Estadual do Patrimônio Histórico e Artístico, na 152° reunião ordinária, realizada no dia 25 de novembro de 2013.
+
+https://www.patrimoniocultural.pr.gov.br/Pagina/Conjunto-Historico-Urbanistico-e-Paisagistico-de-Morretes-0
+
+----------
+
+Cartilha das Normativas do Tombamento do Centro Histórico de Morretes:
+
+https://www.patrimoniocultural.pr.gov.br/sites/patrimonio-cultural/arquivos_restritos/files/documento/2023-02/Cartilha%20Normativas%20do%20Tombamento%20.pdf
+
+----------
+
+MEMÓRIA HISTÓRICA DE MORRETES - Editora UFPR
+
+https://www.editora.ufpr.br/portal/wp-content/uploads/2017/10/Mem%C3%B3ria-Hist%C3%B3rica-de-Morretes.pdf
+
+Publicação do primeiro volume da obra que Antonio Vieira dos Santos escreveu, em 1851, sobre Morretes e Porto de Cima. O segundo volume, que conteria a história de Porto de Cima, permanece extraviado. O título completo do primeiro volume é Memória Histórica Chorónologica Topographica, e Descriptiva Da Villa de Morretes Do Porto Real Vulgarmente Porto de Cima. O manuscrito do primeiro volume está sob a guarda do Círculo de Estudos Bandeirantes (Curitiba, Rua XV de Novembro, 1050).
+
+----------
+
+INVENTÁRIO DA OFERTA TURISTICA DE MORRETES
+
+https://morretes.pr.gov.br/uploads/pagina/arquivos/INVENTARIO-DA-OFERTA-TURISTICA-DE-MORRETES.pdf
+
+----------
+
+Morretes lidera a produção de maracujá no Paraná com 14% do volume estadual, conforme dados da Secretaria de Estado da Agricultura e do Abastecimento. Em 2022, foram produzidas 2.375 toneladas de maracujá no município.
+
+A Festa do Maracujá de Morretes é celebrada anualmente no penúltimo domingo do mês de abril desde 2016, em celebração pela colheita. Durante a festa, que ocorre no vilarejo de Sambaqui, no entorno da Capela Nossa Senhora da Glória, os participantes têm a oportunidade de degustar uma ampla variedade de pratos e bebidas elaborados com maracujá, desde sucos refrescantes até sobremesas incrivelmente saborosas. Além da gastronomia, a Festa do Maracujá oferece apresentações,  música ao vivo e atividades para todas as idades. 
+
+----------
+ 
+
+https://atlasparanatradicional.wordpress.com/ferrovia/morretes/
+
+----------
+
+https://pt.wikipedia.org/wiki/Estrada_de_Ferro_Curitiba_Paranagu%C3%A1
+
+----------
+
+http://teo-jcteo.blogspot.com/2011/02/historia-do-barreado-entrudo-atual.html
+
+----------
+
+Porto de Cima e Porto Barreiros
+
+O Rio Nhundiaquara – Antes chamado Cubatão – recebia navios para carregar erva-mate que descia pelo Caminho da Graciosa. O movimento era intenso fazendo de Morretes o mais importante entreposto entre o planalto e o litoral. No ano de 1834 transitaram por Morretes 1.025 tropas com 9.259 animais. Havia nesta época 47 engenhos de erva mate no município. As embarcações aportavam no Porto de Barreiros e chegavam até o Porto de Cima.
+
+
+A Central do Telégrafo
+
+Morretes foi o mais importante centro de distribuição de conexão de mensagem via telégrafo do Sul do Brasil. A sede era o edifício onde hoje funciona o Hotel e Restaurante Nhundiaquara  
+
+https://www.morretes.pr.gov.br/pagina/908_Turismo-.html</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Rua das Flores, Morretes</osmand:address>
+      <osmand:amenity_origin>Amenity:Morretes: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Morretes</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q781087</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Morretes</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>15718</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.5148786" lon="-48.5226738">
+    <time>2024-06-30T06:55:56Z</time>
+    <name>PARANAGUÁ</name>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>Paranaguá</osmand:address>
+      <osmand:amenity_origin>Amenity:Paranagua: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Paranaguá</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:osm_tag_wikidata>Q503852</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>145829</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4443452" lon="-49.1900343">
+    <time>2024-08-06T10:27:51Z</time>
+    <name>Pinhais</name>
+    <desc>Município de Pinhais
+
+Até 1992, Pinhais pertencia à Piraquara e se transformou em um dos mais novos e promissores municípios do Paraná.
+
+É o menor do Estado em extensão territorial, com uma área de 60,92 km². É também o município mais próximo do centro de Curitiba, localizado a cerca de 9 km de distância da capital paranaense.
+
+Possui uma localização privilegiada e estratégica, acesso fácil e rápido às rodovias interestaduais, ligação rápida com os aeroportos Afonso Pena e Bacacheri.
+
+Segundo dados do IBGE (2022), Pinhais possui 127.019 habitantes e é uma das cidades mais desenvolvidas da Região Metropolitana de Curitiba e do Paraná.
+
+https://pinhais.atende.net/cidadao/pagina/o-municipio</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>Pinhais</osmand:address>
+      <osmand:amenity_origin>Amenity:Pinhais: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Pinhais</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1788891</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Pinhais</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>127019</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4423252" lon="-49.0604514">
+    <time>2024-08-09T11:37:12Z</time>
+    <name>Piraquara</name>
+    <desc>O município possui uma área de 225Km², faz parte da chamada Grande Curitiba e sua população, conforme o IBGE, em 2022 é de 135.242 habitantes. Constitui o maior manancial de abastecimento público do Paraná, apresentando 93% do seu território como Área de Manancial de Captação de água, além de abrigar cinco bacias hidrográficas. Os outros 7% do território compreendem a Bacia Litorânea, as Unidades de Conservação do Parque Estadual do Marumbi e o Parque Estadual da Serra da Baitaca, sendo áreas de proteção.
+
+O território ainda abriga três represas de Armazenamento de Água (barragens), sendo responsável pelo abastecimento de aproximadamente 50% da população da Região Metropolitana de Curitiba, ou seja, é responsável pela produção de 3.200l/segundo em um consumo de 7.200l/segundo dos 3 milhões de habitantes da RMC.
+
+O município abriga o maior complexo penitenciário do Paraná.
+
+----------
+
+CRONOLOGIA HISTÓRICA
+
+Século XVIII — Em data imprecisa, o local onde futuramente seria constituído o município, como parte de uma área maior, foi negociado com o objetivo de que viesse a servir para a exploração aurífera;
+
+1834 — Observa-se a existência do Bairro de Piraquara, então pertencente à Freguesia de São José dos Pinhaes, que nessa ocasião contava com um número de 24 residências;
+
+1878 — No mês de agosto, funda-se a Colônia Santa Maria do Novo Tirol, composta por 351 imigrantes italianos, oriundos do Tirol (Província do Trento); Estando São José dos Pinhais desmembrado administrativamente do município de Curitiba desde o ano de 1853, Piraquara agora é um dos Quarteirões pertencentes àquele município;
+
+1880 — Com o início das obras da Estrada de Ferro Paranaguá–Curitiba, o então povoado onde hoje está localizada a cidade de Piraquara foi beneficiado com a construção de uma Estação Ferroviária. Este acontecimento foi determinante para o desenvolvimento da região;
+
+1885 — O início das atividades ferroviárias ocasionou um gradativo movimento no entorno da Estação Ferroviária, observando-se a fixação de pessoas advindas de diversas partes do Estado, do País e até do Exterior, sendo que os portugueses e sírio-libaneses dominam o comércio local fixo e itinerante; O crescente desenvolvimento da região faz com que Piraquara fosse elevada, em 1885, à categoria de Freguesia (Freguesia do Senhor Bom Jesus de Piraquara);
+
+1890 — Em 1890 Piraquara foi elevada à categoria de Vila (Vila de Piraquara); Em 17 de janeiro de 1890, estabeleceu os limites do novo município, que recebeu a denominação de Deodoro, numa clara homenagem ao Marechal Manuel Deodoro da Fonseca,  proclamador da República e então Chefe do Governo Provisório do Brasil.
+
+1910 — Início da construção da Igreja Matriz do Senhor Bom Jesus dos Passos, sob a liderança do padre francês João Leconte. A obra foi concluída no ano de 1921;
+
+1926 — Após pouco mais de um ano de construção foi inaugurado em terras deodorenses, o Leprosário São Roque,  um hospital que passaria a concentrar todos os doentes acometidos pelo mal de Hansen do Estado do Paraná;
+
+1929 — A denominação oficial do município mudou de Deodoro para Piraquara;
+
+1932 — O Governo do Estado anexou ao município de Piraquara, a região de Pinhais. Esta área pertencia ao município extinto de Colombo e ficara sem subordinação administrativa após o ato de extinção;
+
+1938 — O município de Campina Grande foi extinto, sendo parte de seu antigo território incorporado o município de Piraquara e parte ao de Bocaiúva do Sul. Esta área incorporada ao município de Piraquara, alguns anos depois foi denominada Timbú;
+
+1944 — Início das obras para a construção da Penitenciária Central do Estado, sendo inaugurada no ano de 1951;
+
+1951 — Criação do município do Timbú (posteriormente: Campina Grande do Sul), desmembrando-se do município de Piraquara;
+
+1952 — Abertura da Estrada do Encanamento. A via representava há muitos anos um caminho mais curto entre as cidades de Piraquara e Curitiba.
+
+1961 — A região de Quatro Barras, então subordinada administrativamente parte a Campina Grande do Sul e parte a Piraquara, torna-se emancipada;
+
+1979 — Fortalecendo ainda mais a notória vocação de Piraquara no que se refere ao fornecimento de água potável para a Capital do Estado e aos municípios circunvizinhos, o Governo do Estado inaugurou neste ano a Represa do Cayuguava.
+
+1992 — O distrito de Pinhais foi elevado a condição de município, desmembrando-se do de Piraquara;
+
+1996 — Teve início a ampliação do Complexo Penal do Estado, sediado há mais de 60 anos no município de Piraquara. A partir de então, em poucos anos, o entorno da Penitenciária Central do Estado, recebeu a construção de vários outros estabelecimentos prisionais;
+
+2010 — O município de Piraquara passou a abrigar em seu território mais uma barragem — a chamada Piraquara II.</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>Piraquara</osmand:address>
+      <osmand:amenity_origin>Amenity:Piraquara: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Piraquara</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q2004395</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Piraquara</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>118730</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.5747644" lon="-48.3614838">
+    <ele>5</ele>
+    <time>2024-06-30T06:42:25Z</time>
+    <name>PONTAL DO PARANÁ</name>
+    <desc>História do Município
+
+
+PERÍODO 1500 – 1820
+
+As únicas informações concisas sobre o início da colonização do litoral paranaense devem-se a Vieira dos Santos (1850), segundo o qual os primeiros povoadores da Baía de Paranaguá vieram de Cananéia (transformada em vila em 1587) através de pequenas embarcações pelo Varadouro Velho, chegando até Superagui.
+
+A expedição de Gonçalo Coelho, de 1501, havia deixado portugueses e castelhanos na região de Cananéia, que logo começaram a conviver com os índios ali existentes, os Carijós, e a explorar as áreas vizinhas (provavelmente bem conhecida pelos índios). Supõe-se que estes europeus se miscigenaram com os índios, pois até a chegada de Martim Afonso de Souza, o primeiro colonizador oficial em 1531, “bem poderia haver para mais de 100 pessoas mestiças, entre filhos e netos que aqueles colonos ali propagaram” (Vieira dos Santos1850).
+
+A ocupação inicial do litoral paranaense ocorreu na Ilha da Cotinga na Baía de Paranaguá, no lado voltado para a Ilha Rasa da Cotinga (chefiados por Domingos Gonçalves Peneda). Índios também vindos de Cananéia serviram de intérpretes entre os europeus e os povos que viviam nessa região.
+
+
+PERÍODO 1820 – 1950
+
+A ligação entre Paranaguá e demais localidades ao sul provavelmente era efetuada através de barcos até Pontal do Sul, seguindo-se de carro de boi pela praia até Matinhos, como descrito pelo naturalista francês August de Saint-Hilaire (1978) em 1820:
+
+“Partimos de Paranaguá no dia 3 de abril, em duas canoas, uma com dois remadores e a outra com três. Depois de deixarmos o Rio de Paranaguá (Itiberê, N.A.), entramos num canal que segue mais ou menos na direção do sul da baía e é limitado de um lado pela terra firme e do outro por uma série de ilhas. Em breve perdemos de vista a cidade. Ao longe avistávamos a Serra coroada de nuvens, que passam céleres, ora deixando à mostra os picos, ora ocultando-os.Nossas canoas avançavam velozmente, deixamos para trás a parte montanhosa da Ilha da Cotinga e fomos costeando a sua extremidade que dá para o mar, onde as terras são baixas e cobertas por mangues. Após essa ilha vem a Ilha Rasa, plana, como o seu nome indica. A Ilha do Mel, que vem em seguida, avança até a entrada da baía. É na ponta dessa ilha que foi construído o fortim que defende a barra. À medida que avançamos, o canal de navegação se alarga. Assim como a Ilha Rasa e a Ilha do Mel, a terra firme é orlada por mangues, mas se vêem nelas, de vez em quando, quase à beira da água, pequenos sítios cobertos de telhas, diante dos quais se acham várias canoas. A ponta de terra sobre a qual já disse algumas palavras, que é chamada de Pontal, foi o lugar onde desembarcamos. Fui recebido por um cabo de milícia que comandava um destacamento acantonado nas imediações. Esse homem recebera ordem de cuidar para que chegassem a tempo as carroças que iriam levar a mim e ao meu pessoal a Caiobá. Todos foram pontuais. As carroças pertenciam a alguns fazendeiros das vizinhanças, eram grandes e puxadas por duas juntas de bois, sendo cobertas por um trançado feito de varas de bambu sobre o qual haviam sido colocadas algumas folhas de bananeira amarradas em cipó.Não havia em Pontal nem casas, nem vegetação; nada mais existia ali a não ser areia pura. Logo que desembarcamos acendemos um fogo para cozinhar o feijão e o arroz, que juntamente com água e farinha iriam constituir o nosso jantar. A bagagem foi colocada nos carros-de-boi, e quando partimos o sol já havia se posto fazia muito tempo. Os moradores do lugar têm o hábito de viajar à noite, beirando o mar, porque os bois andam muito mais depressa no escuro do que à claridade do dia. Instalei-me com Laruotte em um dos carros-de-boi, José e Firmiano subiram num outro e Manuel acomodou-se no terceiro. Laruotte pusera uma esteira no chão e estendera sobre ela um cobertor e o meu poncho. Deitei-me, e em breve o marulho das ondas me fez adormecer, mas acordava de vez em quando e percebia, à luz do luar, que seguíamos por uma praia de areia pura, com as ondas vindo lamber de vez em quando as rodas dos carros.”
+
+Loureiro Fernandes (1946/1947) deixou um importante relato quando acompanhou o desenvolver da construção da Estrada da Praia, descrevendo a geografia da planície de Praia de Leste. Descreveu os traços geológicos fundamentais, os sambaquis e os povos que contribuíram para a formação do homem caboclo litorâneo, no caso os brancos, os índios e os negros, sendo que para este autor a contribuição negra foi insignificante. Em seu trabalho, Loureiro Fernandes fotografou a praia, onde podiam ser constatadas a presença do gado, introduzido pelos europeus, e habitações na praia visando a pesca, cujo aspecto revela que a contribuição indígena perdurou por muitos séculos
+
+
+DE 1950 ATÉ OS DIAS ATUAIS
+
+Em 20/01/1951 o Governo do Estado doou ao município de Paranaguá uma área de 43.382.000m², que foi repassada à Empresa Balneária Pontal do Sul em 01/02/1951 (mantendo-a até o presente). Na época foi efetuado um planejamento geral da área, delimitando-se as quadras e o arruamento.
+
+À medida que o tempo passou tal plano não foi cumprido, tendo o crescimento urbano seguido de forma desordenada. Ruas do projeto original foram transformadas em cursos d’água para saneamento e navegação, assim como vários trechos do único braço de mar que havia no começo da ocupação no Balneário Pontal do Sul (Rio Perequê) foi modificado.
+
+Realizou-se a abertura do primeiro loteamento em Pontal do Sul em 07/04/1951, envolvendo uma área de 55.895.100m², indenizando-se a população local com a delimitação de seus lotes. Problemas com posses ilegais e com os moradores locais foram comuns desde a implantação do balneário, perdurando até os dias atuais. A especulação imobiliária também fez com que pequenos núcleos de moradores migrassem para áreas mais distantes da praia, à medida em que o núcleo urbano foi se formando e as propriedades valorizando.
+
+A partir de 1980 implantou-se um canteiro industrial na porção norte do Balneário Pontal do Sul, na área conhecida como Ponta do Poço, formado por três empresas construtoras de plataformas continentais para a exploração do petróleo (FEM, TECHINT e TENENGE). Durante alguns anos o canteiro industrial atraiu trabalhadores de muitos estados, tendo atingido 3.000 operários no início daquela década. Posteriormente estas empresas deixaram de construir plataformas na região da Ponta do Poço, cujos funcionários foram transferidos para outros canteiros ou acabaram permanecendo em Pontal do Sul, sem novas opções de emprego.
+
+Em 1980 também foi implementado no Balneário Pontal do Sul o Centro de Biologia Marinha (CBM), atual Centro de Estudos do Mar (CEM) da Universidade Federal do Paraná, com o objetivo de desenvolver pesquisas na área de oceanografia. A partir de 1987 a população local começou a reivindicar a emancipação política das praias do município de Paranaguá para formar um novo município, chamado Pontal do Paraná. A criação do município ocorreu em outubro de 1996 após a aprovação na Assembléia Legislativa do Estado do Paraná e conseqüente eleição de prefeito e vereadores, tendo-se implantando a sede administrativa em Praia de Leste (Rocha1997).
+
+http://www.pontaldoparana.pr.gov.br/index.php?sessao=b054603368ncb0&amp;id=1836</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Pontal do Paraná</osmand:address>
+      <osmand:amenity_origin>Amenity:Pontal do Parana: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Pontal do Paraná</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:osm_tag_wikidata>Q1803813</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>30425</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.3708961" lon="-49.0745705">
+    <ele>931.8</ele>
+    <time>2024-07-21T11:24:38Z</time>
+    <name>Quatro Barras</name>
+    <desc>Quatro Barras guarda em sua história e em seu território os primeiros caminhos do Paraná. Por mais de cem anos, a região esteve dividida entre Curitiba, Campina Grande do Sul e Piraquara, até que em 1961 o município foi oficialmente criado. O nome da cidade se refere às barras dos rios Canguiri, Timbu, Bracajuvava e Capitanduva. Com área de 169,47 km², o município conta com uma população de aproximadamente 22 mil habitantes, formada predominantemente por italianos, portugueses, poloneses e alemães.
+
+Quatro Barras é um dos 29 municípios que integram a Região Metropolitana de Curitiba. Sua economia é voltada ao setor produtivo e à indústria limpa, já que a cidade está localizada em Área de Preservação Ambiental. A atividade industrial de maior escala diz respeito às fábricas fornecedoras para o ramo automotivo</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Quatro Barras</osmand:address>
+      <osmand:amenity_origin>Amenity:Quatro Barras: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Quatro Barras</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q650514</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>24191</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-26.2495065" lon="-48.6308098">
+    <time>2024-07-01T16:08:46Z</time>
+    <name>São Francisco do Sul</name>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:osm_tag_loc_name>São Chico</osmand:osm_tag_loc_name>
+      <osmand:osm_tag_old_name>Nossa Senhora da Graça do Rio São Francisco;São Francisco</osmand:osm_tag_old_name>
+      <osmand:address>São Francisco do Sul</osmand:address>
+      <osmand:amenity_origin>Amenity:Sao Francisco do Sul: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>São Francisco do Sul</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:osm_tag_wikidata>Q986536</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>52674</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.5338112" lon="-49.2072165">
+    <ele>902</ele>
+    <time>2024-08-15T11:33:46Z</time>
+    <name>São José dos Pinhais</name>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>São José dos Pinhais</osmand:address>
+      <osmand:amenity_origin>Amenity:Sao Jose dos Pinhais: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>São José dos Pinhais</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q478818</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/São José dos Pinhais</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>329628</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.927336" lon="-49.1792679">
+    <ele>926.2</ele>
+    <time>2024-08-22T17:36:22Z</time>
+    <name>Tijucas do Sul</name>
+    <desc>Tijucas do Sul teve início nas décadas que sucederam ao descobrimento do Brasil. A região, serviu como ponto de ligação direta entre Curitiba e São Francisco do Sul – com o chamado Caminho dos Ambrósios.
+
+Ainda no século XIX, Tijucas do Sul foi palco da Revolução Federalista de 1893, considerada a guerra civil mais violenta do Brasil. Os combates na Vila de Tijucas do Sul duraram cerca de 8 dias e juntamente com a resistência da cidade da Lapa foram decisivos para a vitória dos legalistas e a consolidação da República recém instalada.
+
+A emancipação político-administrativa aconteceu em 1951 com a criação do município de Tijucas do Sul. A denominação do município foi dada em virtude da existência, no local, de lamaceiros formados pelo barro preto, que os indígenas locais chamavam de tijuca.
+
+Com cerca de 16 mil habitantes, sua economia baseia-se na agropecuária com destaque para a produção de milho, batata inglesa, soja, feijão, agricultura orgânica, cogumelos champignon, morangos além do extrativismo de argila, caulim, madeiras e erva mate. A industrialização embora incipiente, vem aos poucos se materializando no município.
+
+A grande beleza da região com as nascentes do Rio Negro e do Rio da Várzea, a existência de diversas cachoeiras, serras, vales e represas, o clima e a paisagem subtropical propiciam a criação de cavalos de diversas raças e favorecem o turismo rural e ecológico.
+
+O município foi escolhido pelo artista plástico, Sergius Erdelyi, de origem austríaca, para ser sua residência. Este passou a morar, em Tijucas do Sul, desde meados dos anos 1970, onde deixou um legado com mais de 4.000 obras catalogadas e registradas. Sendo que várias das obras estão distribuídas em igrejas, capelas, locais públicos e museu.
+
+Um evento muito procurado pelos tijuquences é a Feira de Rua, que acontece todos os meses. Possui praça de alimentação, artesanatos e produtos coloniais, caseiros, convencionais ou orgânicos.</desc>
+    <type>Paraná urbs</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Tijucas do Sul</osmand:address>
+      <osmand:amenity_origin>Amenity:Tijucas do Sul: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Tijucas do Sul</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1803774</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>17621</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Paraná urbs" color="#000000" icon="special_star" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
