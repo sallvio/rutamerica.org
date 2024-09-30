@@ -1,0 +1,450 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd 4.8.6" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>favorites-Circuito-Joinvile--Curitiba</name>
+  </metadata>
+  <wpt lat="-26.0294887" lon="-48.8545221">
+    <ele>30.5</ele>
+    <time>2024-09-30T17:58:25Z</time>
+    <name>Garuva</name>
+    <desc>O nome da cidade Garuva é originário de uma palavra indígena que identifica uma árvore do tipo canela-amarela (Nectandra rigida), também conhecida popularmente como canela-garuva de excelente madeira de cor amarelada, comum nas regiões litorâneas de Santa Catarina, mas que pela ação antrópica sua população original diminuiu consideravelmente, porém não se encontra na listagem federal e/ou estadual da flora com risco de extinção. 
+
+Garuva fica localizada na mesorregião do Norte Catarinense, entre duas grandes cidades brasileiras: Curitiba
+e Joinville (maior cidade do estado de Santa Catarina). Limita-se ao norte com o Estado do Paraná, ao sul pelas cidades de Joinville e São Francisco do Sul, a leste por Itapoá e a oeste por Campo Alegre.
+
+----------
+
+Plano de Mobilidade Urbana - Relatório Técnico Final
+https://drive.google.com/file/d/1ct5TK95kQl-9wEQb0B3V6I3llVG_XF1E/view?usp=sharing
+
+----------
+
+garuvasc
+https://www.instagram.com/garuvasc?igsh=ZXAydngweDk1Mnlw</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Garuva</osmand:address>
+      <osmand:amenity_origin>Amenity:Garuva: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Garuva</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>18545</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8806161" lon="-48.5750949">
+    <ele>7.8</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>GUARATUBA</name>
+    <desc>O povoamento da enseada de Guaratuba teve início em 1765 por ordem do Capitão Geral da Capitania de São Paulo, que recebeu a incumbência do Rei Dom José I de fundar vilas e povoados em pontos mais convenientes aos sítios volantes ou dispersos da capitania.
+
+Para a formação da nova povoação foram transferidos 200 casais com a missão de cultivar as terras da região. Após a tentativa de ocupação da ilha de Santa Catarina por forças espanholas em 1768, o Governador da Capitania toma medidas preventivas para defender a região, surgindo assim a necessidade da criação de uma vila. Três anos mais tarde, no dia 29 de abril de 1771, é fundada a Vila de São Luís de Guaratuba e no dia seguinte é eleita a primeira Câmara Municipal. Os vereadores dirigiam os destinos do povo guaratubense assistido pelo presidente da província.
+
+Em 1838 o município de Guaratuba é extinto, passando a constituir um distrito municipal de Paranaguá. A autonomia municipal é restaurada em 1947, mas sete anos depois a cidade passa a ser parte do distrito Judiciário de São José dos Pinhais. Somente em julho de 1986 Guaratuba consegue sua emancipação municipal.</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Guaratuba</osmand:address>
+      <osmand:amenity_origin>Amenity:Guaratuba: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Guaratuba</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1779983</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Guaratuba</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>42062</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-26.3044857" lon="-48.8486749">
+    <time>2024-09-30T17:58:25Z</time>
+    <name>Joinville</name>
+    <desc>https://en.wikipedia.org/wiki/Joinville
+
+----------
+
+HISTÓRIA DE JOINVILLE
+
+Habitualmente remonta-se o surgimento da Colônia Dona Francisca, atual cidade de Joinville, ao contrato assinado em 1849 entre a Sociedade Colonizadora de Hamburgo e o príncipe e a princesa de Joinville (ele, filho do rei da França, e ela, irmã do imperador D. Pedro II), mediante o qual estes cediam 8 léguas quadradas à dita Sociedade para que fossem colonizadas. Assim, oficialmente, a história de Joinville começa com a chegada da primeira leva de imigrantes europeus e a “fundação” da cidade em 9 de março de 1851.
+
+Sabe-se, no entanto, que, há cerca de oito mil anos, grupos de caçadores-coletores frequentaram a região. O registro de suas atividades é representado pelos sítios arqueológicos compostos por fogueiras, vestígios alimentares, resíduos de lascamento de pedras para a produção de instrumentos, além de belas pontas de flecha. No período entre cerca de 6 mil anos e 2 mil anos atrás, as pessoas que habitavam a região ficaram famosas por construir monumentos em forma de colinas, que hoje nós chamamos de sambaquis. Nesses monumentos, comparáveis às pirâmides, aquelas pessoas sepultavam seus mortos. Além de esqueletos humanos, é possível encontrar vestígios de fogueiras, cestarias, instrumentos em pedra, belíssimas esculturas em pedra (zoólitos), além de adornos como colares e tembetás (uma espécie e piercing).
+
+Desde cerca de dois mil anos para cá, as pessoas deixaram, paulatinamente de construir esses monumentos e o principal vestígio que passaram a deixar na paisagem são os fragmentos de cerâmica e de suas vasilhas. Sítios arqueológicos com a presença de cerâmica, com características típicas de diversas etnias indígenas atuais, são encontrados em vários locais da região, inclusive sobre os antigos sambaquis. Foram esses grupos que enfrentaram os colonizadores europeus.
+
+Nos anos de 1800, antes mesmo do contrato com a Companhia Colonizadora, estabeleceram-se na região famílias de origem portuguesa, vindas provavelmente da capitania de São Francisco do Sul. Também foram trazidas neste período, pessoas negras escravizadas. Essas famílias adquiriram grandes lotes de terra (sesmarias) nas regiões do Cubatão, Bucarein, Boa Vista e Itaum, e aí passaram a cultivar mandioca, cana-de-açúcar, arroz, milho, entre outros.
+
+Por volta da década de 1840, uma grave crise econômica, social e política assolou a Europa. Fugindo da miséria, do desemprego, de perseguições políticas, milhares de pessoas resolveram emigrar. Um dos destinos era a Colônia Dona Francisca, para onde vieram cerca de 17 mil pessoas, entre 1850 e 1888. Eram em sua  maioria protestantes, luteranos, agricultores sem recursos, estimulados pela propaganda que apresentava o lugar como se fosse um verdadeiro paraíso terrestre. A intenção da Sociedade Colonizadora, formada por banqueiros, empresários e comerciantes, era, entretanto, auferir grandes lucros com a “exportação” dessa “carga humana” e estabelecer uma Colônia “alemã”, vinculada aos interesses comerciais alemães, como, por exemplo, a especulação imobiliária.
+
+A diversidade étnica foi uma característica do processo colonizador em Joinville. À população luso-brasileira e negra juntaram-se, sobretudo, os germânicos (alemães e suíços que eram maioria no início - noruegueses, austríacos, suecos, dinamarqueses, belgas e holandeses), franceses e italianos.
+
+Os primeiros tempos na Colônia foram dificílimos para os imigrantes. Enfrentaram a natureza, a mata fechada, o solo pantanoso, o clima úmido e as doenças tropicais, responsáveis por inúmeras mortes. Superadas as dificuldades iniciais, a situação dos colonos melhorava sensivelmente. Em 1877, Dona Francisca já contava com cerca de 12 mil habitantes, a maioria vivendo na área rural.
+
+A indústria e o comércio, porém, começavam a se destacar. Havia 4 engenhos de erva-mate, 200 moinhos e 11 olarias. Exportava-se madeira, couro, louça, sapatos, móveis, cigarros e mate; importava-se ferro, artigos de porcelana e pedra, instrumentos musicais, máquinas e instrumentos agrícolas, sal, medicamentos, trigo, vinho, cerveja, carne seca e sardinha. Em 1866 Joinville foi elevada à categoria de vila, desmembrando-se politicamente de São Francisco do Sul. Em 1877, foi elevada à categoria de cidade.
+
+Na década de 1880, surgiram as primeiras indústrias têxteis e metalúrgicas. O mate transformou-se no principal produto de exportação da Colônia Dona Francisca. O  seu comércio, iniciado por industriais vindos do Paraná, deu origem às primeiras fortunas locais.
+
+Nesse período, Joinville já contava com inúmeras associações culturais (ginástica, tiro, canto, teatro), escola, igrejas, hospital, loja maçônica, corpo de bombeiros, entre outros, cujo modelo de organização era o existente nos países de origem dos colonos de descendência germânica.
+
+No início do século XX, uma série de fatos acelerou o desenvolvimento da cidade. Foi inaugurada a Estrada de Ferro São Paulo – Rio Grande, que passava por Joinville, rumo a São Francisco do Sul. Surgia a energia elétrica, o primeiro automóvel, o primeiro telefone e o sistema de transporte coletivo.
+
+Na economia, percebia-se o fortalecimento do setor metalmecânico. Surge, assim, o capital acumulado durante décadas pelos imigrantes germânicos e seus descendentes.
+
+A partir de 1938, a cidade passou a sofrer os efeitos da “Campanha de Nacionalização” promovida pelo governo Vargas. A língua alemã foi proibida, as associações alemãs foram extintas, alemães e descendentes foram perseguidos e presos. Essas ações intensificaram-se ainda mais com a entrada do Brasil na Segunda Guerra Mundial. Foi o período mais triste da história da cidade.
+
+Entre as décadas de 1950 e 1980, Joinville viveu outro surto de crescimento. Com o fim do conflito mundial, o Brasil deixou de receber os produtos industrializados da Europa. Isso fez com que a cidade se transformasse, em pouco tempo, num dos principais polos industriais do país, recebendo, por isso, a denominação de “Manchester Catarinense” (referência à cidade inglesa de mesmo nome).
+
+O perfil da população modificou-se radicalmente com a chegada de imigrantes vindos de várias partes do país, em busca de melhores condições de vida. Aos descendentes dos imigrantes que colonizaram a região, somam-se hoje pessoas das mais diferentes origens étnicas.
+
+----------
+
+Cadernos CERU, Série 2, Vol. 34, n. 2, Dezembro 2023, p.174
+
+Modernização capitalista e higienização do trabalho no campo em Joinville: uma análise histórica do periódico “A agricultura” de Joinville (1933–1938)
+
+Weslley dos Santos Graper
+
+Palavras-chave: Higienização, Modernização, Trabalhadores rurais
+
+https://www.revistas.usp.br/ceru/article/view/220756/201819
+-----------</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:osm_tag_loc_name>Chuville</osmand:osm_tag_loc_name>
+      <osmand:website>https://www.joinville.sc.gov.br/</osmand:website>
+      <osmand:address>Joinville</osmand:address>
+      <osmand:amenity_origin>Amenity:Joinville: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:osm_tag_wikidata>Q156819</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:osm_tag_reg_name>Cidade das Flores;Cidade dos Príncipes;Cidade da Dança;Cidade das Bicicletas;Manchester Catarinense</osmand:osm_tag_reg_name>
+      <osmand:osm_tag_old_name>Schrödersort</osmand:osm_tag_old_name>
+      <osmand:amenity_name>Joinville</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Joinville</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>616317</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-26.7229706" lon="-48.9319307">
+    <ele>67.5</ele>
+    <time>2024-09-30T17:58:25Z</time>
+    <name>Luiz Alves</name>
+    <desc>Luiz Alves, SC
+https://luizalves.sc.gov.br
+
+O Município de Luiz Alves foi emancipado politicamente em 18 de julho de 1958, sendo esta, a data comemorativa de aniversário do Município.
+
+Luiz Alves é conhecida por ser a "Terra da Cachaça e da Banana", devido a fama que foi construída ao longo dos anos. A Rota da Cachaça, lançada em 2019, fomentou ainda mais o título, que passou a ser oficial, sendo reconhecido por lei no Estado de Santa Catarina como a Capital Catarinense da Cachaça.
+
+A cultura da banana também é fundamental para a economia local, gerando centenas de empregos e dando visibilidade ao Município por toda sua estrutura de exportação para outros países próximos.
+
+★ Colonização
+
+A Colônia Luiz Alves foi colonizada por imigrantes italianos, mas aqui já havia famílias açorianas em menor número. Além destes imigrantes, também vieram alemães (segundo maior em número), austríacos, belgas, poloneses e franceses. Recentemente, soube-se que várias famílias provenientes de Biguaçu/SC, no século passado, tidas como descendentes de alemães eram, na realidade, luxemburguenses.
+
+★ Origem do nome
+
+O nome Luís Alves provém de um dos moradores da barra do Itajaí-açu. Quando em 1842 Van Lede, engenheiro diretor da colônia belga de Ilhota explorou o rio, estava na casa desse cidadão assim chamado.
+
+https://youtu.be/MmxvvW8kbTU?si=qOlOhxjH7IAS0Lb2
+
+★ Hidrografia
+
+O Sistema Hídrico do Município de Luiz Alves, dominado pelo rio do mesmo nome, insere-se aos rios da Vertente Atlântica ou Bacia de Leste, sendo um dos afluentes principais do Rio Itajaí-Açu. O Rio Luiz Alves drena, juntamente com seus afluentes, os terrenos cristalinos, apresentando um perfil longitudinal razoavelmente acidentado em seu curso superior, perdendo esta característica na planície de acumulação junto à área urbana, onde chega a formar alguns meandros.
+
+★ Rota da Cachaça
+https://turismo.luizalves.sc.gov.br/rota-da-cachaca/
+
+Ao ouvir falar o nome da cidade de Luiz Alves a lembrança da maioria dos catarinenses é imediata: estamos falando da Terra da Cachaça. Título esse recebido oficialmente em 2018 após o Deputado Estadual Leonel Pavan levar o projeto à Assembleia Legislativa, que depois de aprovado, tornou o Município a Capital Catarinense da Cachaça, por meio da Lei Estadual Nº 17.535/2018.
+
+Buscando a valorização do famoso destilado fabricado na cidade, uma união entre a Prefeitura Municipal e produtores, fez surgir a Apcala (Associação dos Produtores de Cachaça Artesanal de Luiz Alves). Parceria esta que resultou na criação de um dos principais atrativos turísticos da cidade: a Rota da Cachaça, que desde 2018 tem atraído visitantes de todas as regiões do Brasil e inclusive de outros países.
+
+Composta por dez Alambiques espalhados por diversos bairros do Município, a Rota da Cachaça leva os turistas a conhecerem as lindas paisagens rurais Luizalvenses e também a acompanharem de perto a produção da bebida, com oportunidade de degustação e compra dos produtos. Mais do que um passeio para apreciadores, a Rota da Cachaça permite conhecer de perto parte da história Luizalvense que está estreitamente ligada com a dos Alambiques, empresas familiares que por várias gerações vêm produzindo cachaças de qualidade, que deram a fama a cidade.
+
+A Rota da Cachaça de Luiz Alves é um roteiro indispensável para quem aprecia boa bebida, turismo de experiência ou deseja comprar a bebida para presentear.</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:address>Rua 18 de Julho, Luiz Alves</osmand:address>
+      <osmand:color>#000000</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>special_star</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4770089" lon="-48.8321931">
+    <ele>11</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>MORRETES</name>
+    <desc>Morretes está inserida no contexto histórico do descobrimento das primeiras jazidas de ouro em território brasileiro, encontradas nos rios que deságuam na baía de Paranaguá. Desde a segunda metade do século XVI a região foi frequentada por preadores, faiscadores e comerciantes vindos de São Vicente, atraídos pela notícia da descoberta de ouro. Assim, esse fluxo de pessoas para a região, em 1721, determinou que a Câmara Municipal de Paranaguá medisse e demarcasse 300 braças em quadra, para servir de localização à sede da futura povoação, a qual ocorreu somente em 1733.
+
+O processo de fixação e crescimento da população é marcado com a construção da primeira igreja, por volta de 1769, dedicada a Nossa Senhora do Porto e Menino Deus dos Três Morretes. Estrategicamente localizada no sopé da Serra do Mar, é o ponto de partida e chegada do Caminho Colonial do Arraial e o Caminho Colonial do Itupava; importantes vias de comunicação entre o planalto curitibano e o litoral paranaense. Esses caminhos, originalmente, eram picadas abertas por indígenas, as quais foram utilizadas pelos faiscadores de ouro e, depois, como via de transporte de pessoas e mercadorias. A utilização dessas vias de comunicação terrestre contribuiu para o desenvolvimento social, econômico, político e no processo de transformação urbana ocorrida ao longo dos anos. Quanto aos aspectos arquitetônicos e urbanísticos, a morfologia de Morretes segue os caminhos do suporte natural e da história.
+
+A mancha urbana mais antiga se desenvolveu às margens do Rio Nhundiaquara, reproduzindo a clássica implantação luso-brasileira com um traçado orgânico, largo e praceado, que mescla espaços pedestrializados e eixos viários tradicionais, os quais produzem visuais que permitem uma leitura abrangente entre o construído e o natural, composição harmônica que torna o centro histórico único. A relação entre os espaços públicos e privados também é de grande relevância, pois estabelecem, ao longo do rio, avarandados restaurantes e quintais privados. Os lotes muito estreitos e profundos, dos quais somente a porção frontal é edificada, evidenciam o gabarito das construções que, em sua imensa maioria, são edificações térreas, que não sobressaem à linha do horizonte.
+
+ A área de tombamento é delimitada pelo polígono marginado pelo Rio Nhundiaquara, desde a ponte ferroviária do Ramal de Antonina, descendo rio abaixo até encontrar o prolongamento da Rua Coronel Modesto. Segue por esta até encontrar o Largo Antônio R. dos Santos, seguindo para oeste até a Rua Visconde do Rio Branco, até encontrar a Estrada de Ferro Paraná, englobando dentro de sua área de influência as casas da vila ferroviária, até encontrar a Rua Marcos Malucelli, seguindo pela linha férrea até encontrar os trilhos do Ramal Ferroviário de Antonina, pelo qual retorna ao ponto de partida (Perímetro Tombado); e é, também, estabelecido pelo Perímetro de Entorno, delimitado pelo polígono que inicia na confluência da Rua José Moraes com a Rua Coronel Modesto, seguindo pela Rua José Moraes até os trilhos da Ferrovia Paraná, até o prolongamento da Rua Visconde do Rio Branco, pela qual segue até o Largo Antonio R. dos Santos até encontrar a Rua Coronel Modesto, pela qual retorna ao ponto de partida.
+ 
+
+OBSERVAÇÕES
+
+O tombamento do Conjunto Histórico, Urbanístico e Paisagístico de Morretes está inscrito nos livros do Tombo Histórico e Tombo Arqueológico, Etnográfico e Paisagístico, conforme aprovação, por unanimidade, pelo Conselho Estadual do Patrimônio Histórico e Artístico, na 152° reunião ordinária, realizada no dia 25 de novembro de 2013.
+
+https://www.patrimoniocultural.pr.gov.br/Pagina/Conjunto-Historico-Urbanistico-e-Paisagistico-de-Morretes-0
+
+----------
+
+Cartilha das Normativas do Tombamento do Centro Histórico de Morretes:
+
+https://www.patrimoniocultural.pr.gov.br/sites/patrimonio-cultural/arquivos_restritos/files/documento/2023-02/Cartilha%20Normativas%20do%20Tombamento%20.pdf
+
+----------
+
+MEMÓRIA HISTÓRICA DE MORRETES - Editora UFPR
+
+https://www.editora.ufpr.br/portal/wp-content/uploads/2017/10/Mem%C3%B3ria-Hist%C3%B3rica-de-Morretes.pdf
+
+Publicação do primeiro volume da obra que Antonio Vieira dos Santos escreveu, em 1851, sobre Morretes e Porto de Cima. O segundo volume, que conteria a história de Porto de Cima, permanece extraviado. O título completo do primeiro volume é Memória Histórica Chorónologica Topographica, e Descriptiva Da Villa de Morretes Do Porto Real Vulgarmente Porto de Cima. O manuscrito do primeiro volume está sob a guarda do Círculo de Estudos Bandeirantes (Curitiba, Rua XV de Novembro, 1050).
+
+----------
+
+INVENTÁRIO DA OFERTA TURISTICA DE MORRETES
+
+https://morretes.pr.gov.br/uploads/pagina/arquivos/INVENTARIO-DA-OFERTA-TURISTICA-DE-MORRETES.pdf
+
+----------
+
+Morretes lidera a produção de maracujá no Paraná com 14% do volume estadual, conforme dados da Secretaria de Estado da Agricultura e do Abastecimento. Em 2022, foram produzidas 2.375 toneladas de maracujá no município.
+
+A Festa do Maracujá de Morretes é celebrada anualmente no penúltimo domingo do mês de abril desde 2016, em celebração pela colheita. Durante a festa, que ocorre no vilarejo de Sambaqui, no entorno da Capela Nossa Senhora da Glória, os participantes têm a oportunidade de degustar uma ampla variedade de pratos e bebidas elaborados com maracujá, desde sucos refrescantes até sobremesas incrivelmente saborosas. Além da gastronomia, a Festa do Maracujá oferece apresentações,  música ao vivo e atividades para todas as idades. 
+
+----------
+ 
+
+https://atlasparanatradicional.wordpress.com/ferrovia/morretes/
+
+----------
+
+https://pt.wikipedia.org/wiki/Estrada_de_Ferro_Curitiba_Paranagu%C3%A1
+
+----------
+
+http://teo-jcteo.blogspot.com/2011/02/historia-do-barreado-entrudo-atual.html
+
+----------
+
+Porto de Cima e Porto Barreiros
+
+O Rio Nhundiaquara – Antes chamado Cubatão – recebia navios para carregar erva-mate que descia pelo Caminho da Graciosa. O movimento era intenso fazendo de Morretes o mais importante entreposto entre o planalto e o litoral. No ano de 1834 transitaram por Morretes 1.025 tropas com 9.259 animais. Havia nesta época 47 engenhos de erva mate no município. As embarcações aportavam no Porto de Barreiros e chegavam até o Porto de Cima.
+
+
+A Central do Telégrafo
+
+Morretes foi o mais importante centro de distribuição de conexão de mensagem via telégrafo do Sul do Brasil. A sede era o edifício onde hoje funciona o Hotel e Restaurante Nhundiaquara  
+
+https://www.morretes.pr.gov.br/pagina/908_Turismo-.html</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Rua das Flores, Morretes</osmand:address>
+      <osmand:amenity_origin>Amenity:Morretes: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Morretes</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q781087</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Morretes</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>15718</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4443452" lon="-49.1900343">
+    <time>2024-09-30T17:57:52Z</time>
+    <name>Pinhais</name>
+    <desc>Município de Pinhais
+
+Até 1992, Pinhais pertencia à Piraquara e se transformou em um dos mais novos e promissores municípios do Paraná.
+
+É o menor do Estado em extensão territorial, com uma área de 60,92 km². É também o município mais próximo do centro de Curitiba, localizado a cerca de 9 km de distância da capital paranaense.
+
+Possui uma localização privilegiada e estratégica, acesso fácil e rápido às rodovias interestaduais, ligação rápida com os aeroportos Afonso Pena e Bacacheri.
+
+Segundo dados do IBGE (2022), Pinhais possui 127.019 habitantes e é uma das cidades mais desenvolvidas da Região Metropolitana de Curitiba e do Paraná.
+
+https://pinhais.atende.net/cidadao/pagina/o-municipio</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>Pinhais</osmand:address>
+      <osmand:amenity_origin>Amenity:Pinhais: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Pinhais</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1788891</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Pinhais</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>127019</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.4423252" lon="-49.0604514">
+    <ele>903.2</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>Piraquara</name>
+    <desc>O município possui uma área de 225Km², faz parte da chamada Grande Curitiba e sua população, conforme o IBGE, em 2022 é de 135.242 habitantes. Constitui o maior manancial de abastecimento público do Paraná, apresentando 93% do seu território como Área de Manancial de Captação de água, além de abrigar cinco bacias hidrográficas. Os outros 7% do território compreendem a Bacia Litorânea, as Unidades de Conservação do Parque Estadual do Marumbi e o Parque Estadual da Serra da Baitaca, sendo áreas de proteção.
+
+O território ainda abriga três represas de Armazenamento de Água (barragens), sendo responsável pelo abastecimento de aproximadamente 50% da população da Região Metropolitana de Curitiba, ou seja, é responsável pela produção de 3.200l/segundo em um consumo de 7.200l/segundo dos 3 milhões de habitantes da RMC.
+
+O município abriga o maior complexo penitenciário do Paraná.
+
+----------
+
+CRONOLOGIA HISTÓRICA
+
+Século XVIII — Em data imprecisa, o local onde futuramente seria constituído o município, como parte de uma área maior, foi negociado com o objetivo de que viesse a servir para a exploração aurífera;
+
+1834 — Observa-se a existência do Bairro de Piraquara, então pertencente à Freguesia de São José dos Pinhaes, que nessa ocasião contava com um número de 24 residências;
+
+1878 — No mês de agosto, funda-se a Colônia Santa Maria do Novo Tirol, composta por 351 imigrantes italianos, oriundos do Tirol (Província do Trento); Estando São José dos Pinhais desmembrado administrativamente do município de Curitiba desde o ano de 1853, Piraquara agora é um dos Quarteirões pertencentes àquele município;
+
+1880 — Com o início das obras da Estrada de Ferro Paranaguá–Curitiba, o então povoado onde hoje está localizada a cidade de Piraquara foi beneficiado com a construção de uma Estação Ferroviária. Este acontecimento foi determinante para o desenvolvimento da região;
+
+1885 — O início das atividades ferroviárias ocasionou um gradativo movimento no entorno da Estação Ferroviária, observando-se a fixação de pessoas advindas de diversas partes do Estado, do País e até do Exterior, sendo que os portugueses e sírio-libaneses dominam o comércio local fixo e itinerante; O crescente desenvolvimento da região faz com que Piraquara fosse elevada, em 1885, à categoria de Freguesia (Freguesia do Senhor Bom Jesus de Piraquara);
+
+1890 — Em 1890 Piraquara foi elevada à categoria de Vila (Vila de Piraquara); Em 17 de janeiro de 1890, estabeleceu os limites do novo município, que recebeu a denominação de Deodoro, numa clara homenagem ao Marechal Manuel Deodoro da Fonseca,  proclamador da República e então Chefe do Governo Provisório do Brasil.
+
+1910 — Início da construção da Igreja Matriz do Senhor Bom Jesus dos Passos, sob a liderança do padre francês João Leconte. A obra foi concluída no ano de 1921;
+
+1926 — Após pouco mais de um ano de construção foi inaugurado em terras deodorenses, o Leprosário São Roque,  um hospital que passaria a concentrar todos os doentes acometidos pelo mal de Hansen do Estado do Paraná;
+
+1929 — A denominação oficial do município mudou de Deodoro para Piraquara;
+
+1932 — O Governo do Estado anexou ao município de Piraquara, a região de Pinhais. Esta área pertencia ao município extinto de Colombo e ficara sem subordinação administrativa após o ato de extinção;
+
+1938 — O município de Campina Grande foi extinto, sendo parte de seu antigo território incorporado o município de Piraquara e parte ao de Bocaiúva do Sul. Esta área incorporada ao município de Piraquara, alguns anos depois foi denominada Timbú;
+
+1944 — Início das obras para a construção da Penitenciária Central do Estado, sendo inaugurada no ano de 1951;
+
+1951 — Criação do município do Timbú (posteriormente: Campina Grande do Sul), desmembrando-se do município de Piraquara;
+
+1952 — Abertura da Estrada do Encanamento. A via representava há muitos anos um caminho mais curto entre as cidades de Piraquara e Curitiba.
+
+1961 — A região de Quatro Barras, então subordinada administrativamente parte a Campina Grande do Sul e parte a Piraquara, torna-se emancipada;
+
+1979 — Fortalecendo ainda mais a notória vocação de Piraquara no que se refere ao fornecimento de água potável para a Capital do Estado e aos municípios circunvizinhos, o Governo do Estado inaugurou neste ano a Represa do Cayuguava.
+
+1992 — O distrito de Pinhais foi elevado a condição de município, desmembrando-se do de Piraquara;
+
+1996 — Teve início a ampliação do Complexo Penal do Estado, sediado há mais de 60 anos no município de Piraquara. A partir de então, em poucos anos, o entorno da Penitenciária Central do Estado, recebeu a construção de vários outros estabelecimentos prisionais;
+
+2010 — O município de Piraquara passou a abrigar em seu território mais uma barragem — a chamada Piraquara II.</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>Piraquara</osmand:address>
+      <osmand:amenity_origin>Amenity:Piraquara: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Piraquara</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q2004395</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/Piraquara</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>118730</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.3708961" lon="-49.0745705">
+    <ele>931.8</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>Quatro Barras</name>
+    <desc>Quatro Barras guarda em sua história e em seu território os primeiros caminhos do Paraná. Por mais de cem anos, a região esteve dividida entre Curitiba, Campina Grande do Sul e Piraquara, até que em 1961 o município foi oficialmente criado. O nome da cidade se refere às barras dos rios Canguiri, Timbu, Bracajuvava e Capitanduva. Com área de 169,47 km², o município conta com uma população de aproximadamente 22 mil habitantes, formada predominantemente por italianos, portugueses, poloneses e alemães.
+
+Quatro Barras é um dos 29 municípios que integram a Região Metropolitana de Curitiba. Sua economia é voltada ao setor produtivo e à indústria limpa, já que a cidade está localizada em Área de Preservação Ambiental. A atividade industrial de maior escala diz respeito às fábricas fornecedoras para o ramo automotivo</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Quatro Barras</osmand:address>
+      <osmand:amenity_origin>Amenity:Quatro Barras: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Quatro Barras</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q650514</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>24191</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-26.2483662" lon="-49.3820697">
+    <ele>844</ele>
+    <time>2024-09-30T17:58:25Z</time>
+    <name>São Bento do Sul</name>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>São Bento do Sul</osmand:address>
+      <osmand:amenity_origin>Amenity:Sao Bento do Sul: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>São Bento do Sul</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1765057</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>83277</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.5338112" lon="-49.2072165">
+    <ele>902</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>São José dos Pinhais</name>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>city</osmand:amenity_subtype>
+      <osmand:address>São José dos Pinhais</osmand:address>
+      <osmand:amenity_origin>Amenity:Sao Jose dos Pinhais: administrative:city</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>São José dos Pinhais</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q478818</osmand:osm_tag_wikidata>
+      <osmand:icon>place_city</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_wikipedia>http://pt.wikipedia.org/wiki/São José dos Pinhais</osmand:osm_tag_wikipedia>
+      <osmand:osm_tag_population>329628</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.927336" lon="-49.1792679">
+    <ele>926.2</ele>
+    <time>2024-09-30T17:57:52Z</time>
+    <name>Tijucas do Sul</name>
+    <desc>Tijucas do Sul teve início nas décadas que sucederam ao descobrimento do Brasil. A região, serviu como ponto de ligação direta entre Curitiba e São Francisco do Sul – com o chamado Caminho dos Ambrósios.
+
+Ainda no século XIX, Tijucas do Sul foi palco da Revolução Federalista de 1893, considerada a guerra civil mais violenta do Brasil. Os combates na Vila de Tijucas do Sul duraram cerca de 8 dias e juntamente com a resistência da cidade da Lapa foram decisivos para a vitória dos legalistas e a consolidação da República recém instalada.
+
+A emancipação político-administrativa aconteceu em 1951 com a criação do município de Tijucas do Sul. A denominação do município foi dada em virtude da existência, no local, de lamaceiros formados pelo barro preto, que os indígenas locais chamavam de tijuca.
+
+Com cerca de 16 mil habitantes, sua economia baseia-se na agropecuária com destaque para a produção de milho, batata inglesa, soja, feijão, agricultura orgânica, cogumelos champignon, morangos além do extrativismo de argila, caulim, madeiras e erva mate. A industrialização embora incipiente, vem aos poucos se materializando no município.
+
+A grande beleza da região com as nascentes do Rio Negro e do Rio da Várzea, a existência de diversas cachoeiras, serras, vales e represas, o clima e a paisagem subtropical propiciam a criação de cavalos de diversas raças e favorecem o turismo rural e ecológico.
+
+O município foi escolhido pelo artista plástico, Sergius Erdelyi, de origem austríaca, para ser sua residência. Este passou a morar, em Tijucas do Sul, desde meados dos anos 1970, onde deixou um legado com mais de 4.000 obras catalogadas e registradas. Sendo que várias das obras estão distribuídas em igrejas, capelas, locais públicos e museu.
+
+Um evento muito procurado pelos tijuquences é a Feira de Rua, que acontece todos os meses. Possui praça de alimentação, artesanatos e produtos coloniais, caseiros, convencionais ou orgânicos.</desc>
+    <type>Circuito-Joinvile--Curitiba</type>
+    <extensions>
+      <osmand:amenity_subtype>town</osmand:amenity_subtype>
+      <osmand:address>Tijucas do Sul</osmand:address>
+      <osmand:amenity_origin>Amenity:Tijucas do Sul: administrative:town</osmand:amenity_origin>
+      <osmand:color>#000000</osmand:color>
+      <osmand:amenity_name>Tijucas do Sul</osmand:amenity_name>
+      <osmand:background>square</osmand:background>
+      <osmand:osm_tag_wikidata>Q1803774</osmand:osm_tag_wikidata>
+      <osmand:icon>place_town</osmand:icon>
+      <osmand:amenity_type>administrative</osmand:amenity_type>
+      <osmand:osm_tag_population>17621</osmand:osm_tag_population>
+    </extensions>
+  </wpt>
+  <extensions>
+    <osmand:points_groups>
+      <group name="Circuito-Joinvile--Curitiba" color="#000000" icon="place_town" background="square" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
