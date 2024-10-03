@@ -1,0 +1,97 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAndRouterV2" xmlns="http://www.topografix.com/GPX/1/1" xmlns:osmand="https://osmand.net" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Test02</name>
+  </metadata>
+  <wpt lat="-25.8355386" lon="-48.5391372">
+    <time>2024-10-03T16:09:58Z</time>
+    <name>Universidade Federal do Paraná - Campus Litoral</name>
+    <extensions>
+      <osmand:amenity_subtype>university</osmand:amenity_subtype>
+      <osmand:amenity_origin>Amenity:Universidade Federal do Parana - Campus Litoral: education:university</osmand:amenity_origin>
+      <osmand:color>#aaaa00</osmand:color>
+      <osmand:osm_tag_alt_name>UFPR - Litoral</osmand:osm_tag_alt_name>
+      <osmand:amenity_name>Universidade Federal do Paraná - Campus Litoral</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>amenity_university</osmand:icon>
+      <osmand:amenity_type>education</osmand:amenity_type>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8382375" lon="-48.5409772">
+    <time>2024-10-03T16:08:44Z</time>
+    <name>Restaurante Apetitoy</name>
+    <extensions>
+      <osmand:amenity_subtype>restaurant</osmand:amenity_subtype>
+      <osmand:amenity_origin>Amenity:Apetitoy Restaurant: sustenance:restaurant</osmand:amenity_origin>
+      <osmand:collapsable_cuisine>cuisine_regional</osmand:collapsable_cuisine>
+      <osmand:color>#b4d00d0d</osmand:color>
+      <osmand:phone>(41) 3473-2293</osmand:phone>
+      <osmand:amenity_name>Restaurante Apetitoy</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>amenity_restaurant</osmand:icon>
+      <osmand:amenity_type>sustenance</osmand:amenity_type>
+      <osmand:osm_tag_description>O restaurante também atende aos estudantes da UFPR Litoral fazendo parte da política de Restaurante Universitário.</osmand:osm_tag_description>
+      <osmand:amenity_opening_hours>Mo-Su 11:00-14:00, 17:30-19:30</osmand:amenity_opening_hours>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8260906" lon="-48.5408896">
+    <time>2024-10-03T16:10:03Z</time>
+    <name>Rua Irati, Bela Vista</name>
+    <extensions>
+      <osmand:color>#0000ff</osmand:color>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>special_house</osmand:icon>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8326754" lon="-48.5367876">
+    <time>2024-10-03T16:09:23Z</time>
+    <name>Avenida Atlântica</name>
+    <extensions>
+      <osmand:amenity_subtype>bridge</osmand:amenity_subtype>
+      <osmand:amenity_origin>Amenity:Avenida Atlantica: man_made:bridge</osmand:amenity_origin>
+      <osmand:color>#88e030</osmand:color>
+      <osmand:amenity_name>Avenida Atlântica</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>bridge</osmand:icon>
+      <osmand:osm_tag_network>lcn</osmand:osm_tag_network>
+      <osmand:amenity_type>man_made</osmand:amenity_type>
+      <osmand:osm_tag_bridge_car>yes</osmand:osm_tag_bridge_car>
+      <osmand:collapsable_access_bicycle>bicycle_yes</osmand:collapsable_access_bicycle>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8402702" lon="-48.54087">
+    <time>2024-10-03T16:09:42Z</time>
+    <name>Praça Henrique Domingues Freire</name>
+    <extensions>
+      <osmand:amenity_subtype>park</osmand:amenity_subtype>
+      <osmand:amenity_origin>Amenity:Praca Henrique Domingues Freire: entertainment:park</osmand:amenity_origin>
+      <osmand:color>#336e09</osmand:color>
+      <osmand:amenity_name>Praça Henrique Domingues Freire</osmand:amenity_name>
+      <osmand:background>circle</osmand:background>
+      <osmand:icon>park</osmand:icon>
+      <osmand:amenity_type>entertainment</osmand:amenity_type>
+    </extensions>
+  </wpt>
+  <wpt lat="-25.8265022" lon="-48.5406525">
+    <time>2024-10-03T16:16:31Z</time>
+    <name>Bandejão</name>
+    <desc>[PTS&#128690;]
+https://osmand.net/map?start=-25.826090%2C-48.540890&amp;via=-25.832676%2C-48.536789%3B-25.835539%2C-48.539139&amp;end=-25.838238%2C-48.540977&amp;profile=bicycle#18/-25.841495/-48.541489</desc>
+    <extensions>
+      <osmand:color>#13ff00</osmand:color>
+      <osmand:background>square</osmand:background>
+      <osmand:icon>shop_pet</osmand:icon>
+    </extensions>
+  </wpt>
+  <trk>
+    <name>Thu 03 Oct 2024</name>
+    <trkseg>
+      <trkpt lat="-25.8357752" lon="-48.539264" />
+    </trkseg>
+  </trk>
+  <extensions>
+    <osmand:points_groups>
+      <group name="" color="#b4d00d0d" icon="amenity_university" background="circle" />
+    </osmand:points_groups>
+  </extensions>
+</gpx>
